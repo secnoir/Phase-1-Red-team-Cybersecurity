@@ -20,8 +20,8 @@ Fundamentals makes the whole process of becoming a skilled professional easier a
 
 📂 Networking Fundamentals
 - Month 1 Notes
-- Labs
-- Command Practice
+- DNS.md
+- ARP.md
 
 📂Projects
 - basic ping sweep script
