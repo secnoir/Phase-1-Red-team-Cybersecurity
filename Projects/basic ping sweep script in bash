@@ -11,3 +11,9 @@ for ip in $(seq 1 254) ; do
 done
 wait
 fi
+
+
+What ping sweep script is :
+It is a script that scans a network to show active / online devices or hosts. It send a ICMP echo request to each ip on a network and when it gets a reply from that ip 
+it assumes the host is online.
+
