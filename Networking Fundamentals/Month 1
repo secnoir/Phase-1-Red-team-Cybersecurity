@@ -8,3 +8,33 @@ In the first month of my cybersecurity journey, I learned many of the networking
 I also did some lab work with Kali Linux where I learned commands like `traceroute`, `ip a`, `ip route`, `ifconfig`, `ping`, and some `nmap` commands.
 
 When I learned the fundamentals of networking, everything became way clearer to me and pretty easy to understand—like seeing my own IP and the subnet mask.
+
+Wireshark is a great tool to capture network traffic which actually made me understand the network flow even better , with wireshark i observed the dns queries , tcp handshake , tls handshake , 
+https traffic.
+
+Nmap is also a good tool that is used to scan ip addresses to identify a device , OS , service , service versions etc.
+In short nmap is a network discovery tool.
+some common nmap commands are :
+nmap -sS  192.168.1.1
+nmap -sV  192.168.1.1
+nmap -A   192.168.1.1
+nmap -Pn  192.168.1.1
+nmap -sU  192.168.1.1
+nmap -sT  192.168.1.1
+nmap -p 1-1000  192.168.1.1
+
+There are many other nmap commands that are used for different purposes.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
