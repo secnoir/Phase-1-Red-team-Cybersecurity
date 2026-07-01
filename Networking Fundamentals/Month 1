@@ -1,0 +1,10 @@
+## Month 1 – Networking Fundamentals
+
+In the first month of my cybersecurity journey, I learned many of the networking fundamentals required to understand how the internet works. This included topics like:
+* DNS, Subnetting, OSI Model, and TCP/IP Model
+* DHCP, Routing, NAT, PAT, and IP Addressing
+* ARP, LAN, VLAN, and Switches
+
+I also did some lab work with Kali Linux where I learned commands like `traceroute`, `ip a`, `ip route`, `ifconfig`, `ping`, and some `nmap` commands.
+
+When I learned the fundamentals of networking, everything became way clearer to me and pretty easy to understand—like seeing my own IP and the subnet mask.
