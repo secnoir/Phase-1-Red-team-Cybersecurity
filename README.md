@@ -8,4 +8,22 @@ programming and scripting.
 
 Fundamentals makes the whole process of becoming a skilled professional easier as it helps understand commands , tools , scripts etc.
 
+## Repository Structure
+
+📂 Kali Linux Terminal Learning
+- File Management and Navigation
+- Viewing, Editing and Creating Files
+- Starting and Stopping Services
+- Installing and Updating Packages
+- Networking Commands
+- Bash Scripting
+
+📂 Networking Fundamentals
+- Month 1 Notes
+- Labs
+- Command Practice
+
+📂Projects
+- basic ping sweep script
+
 
