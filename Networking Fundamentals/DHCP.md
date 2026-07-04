@@ -1,0 +1,5 @@
+DHCP stands for dynamic host configuration protocol , it is the protocol that automatically assigns ip addresses to devices on a network. It has a 4 step process which is in short called the DORA process.
+DORA stands for Discover , Offer , Request , Acknowledge.
+When a new device first joins a network it broadcasts a DHCP Discover to find any DHCP server , the DHCP server replies and offers an IP address , the device requests to take the IP address and DHCP assigns the IP to that device and sends a  DHCP Acknowledgment to confirm it.
+a DHCP server also provides Subnet mask , Default Gateway , DNS server , lease time.
+A lease time is the time the DHCP server gives a device to use an IP address , lets say it gives a lease time of 24 hours to a device , the device can use the IP for 24 hours but devices normally asks to renew the lease time when it is about to run out.It depends on the DHCP server whether to approve the renewal request or deny it depending on its configuration.
