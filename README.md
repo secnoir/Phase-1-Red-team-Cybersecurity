@@ -22,6 +22,9 @@ Fundamentals makes the whole process of becoming a skilled professional easier a
 - Month 1 Notes
 - DNS.md
 - ARP.md
+- DHCP.md
+- NAT.md
+- OSI MODEL
 
 📂Projects
 - basic ping sweep script
