@@ -24,7 +24,8 @@ Fundamentals makes the whole process of becoming a skilled professional easier a
 - ARP.md
 - DHCP.md
 - NAT.md
-- OSI MODEL
+- OSI MODEL.md
+- TCP IP MODEL.md
 
 📂Projects
 - basic ping sweep script
