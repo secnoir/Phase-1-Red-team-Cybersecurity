@@ -34,6 +34,5 @@ nslookup -> The same as dig but the output is much simpler and less detailed.
 
 ip n -> Shows mac address belonging to an ip , it is a newer command and the old command is arp -a , They work the same way.
 
-
-
+ip r -> This command is used to show system's routing table meaning what path does a network traffic take to reach destination. It inlcudes things like default gateway , network interfaces which are used to reach destination.
 
