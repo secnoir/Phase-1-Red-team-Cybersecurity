@@ -26,6 +26,7 @@ Fundamentals makes the whole process of becoming a skilled professional easier a
 - NAT.md
 - OSI MODEL.md
 - TCP IP MODEL.md
+- Common Ports and Protocols.md
 
 📂Projects
 - basic ping sweep script
