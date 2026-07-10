@@ -17,6 +17,7 @@ Fundamentals makes the whole process of becoming a skilled professional easier a
 - Installing and Updating Packages
 - Networking Commands
 - Bash Scripting
+- Users and priveleges.md
 
 📂 Networking Fundamentals
 - Month 1 Notes
