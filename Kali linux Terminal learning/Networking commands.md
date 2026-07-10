@@ -32,6 +32,8 @@ dig -> A tool used for dns lookup , a dns lookup is the process of translating h
 
 nslookup -> The same as dig but the output is much simpler and less detailed.
 
+ip n -> Shows mac address belonging to an ip , it is a newer command and the old command is arp -a , They work the same way.
+
 
 
 
