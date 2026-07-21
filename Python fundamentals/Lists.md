@@ -16,7 +16,7 @@ all_phones = phones + smartphones
 
 We also have nested lists , which means a list inside another list. They look something like :
 iq_scores = [["Bob", 92] , ["Alice",112] , ["John" , 110] ]  #Nested list
-alice_iq = iq_score[1]  [1]  #Takes the number 1 index from parent index number 1
+alice_iq = iq_scores[1]  [1]  #Takes the number 1 index from parent index number 1
 print(alice_iq)
 
 OUTPUT :
@@ -24,7 +24,7 @@ OUTPUT :
 
 
 We can change items in nested lists too.
-iq_score[0]  [1] = 97   #Changes Bob's iq score to 97
+iq_scores[0]  [1] = 97   #Changes Bob's iq score to 97
 
 
 
