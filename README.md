@@ -1,13 +1,6 @@
-This reposistory is all about my journey of learning cybersecurity. It shows how i learned the fundamentals required to become a skilled professional.
-Learning the fundamentals of cybersecurity is the most important thing that every person interested in this field should do first.
-The fundamentals include things like :
-Networking fundamentals,
-Linux fundamentals, 
-Windows fundamentals, 
-programming and scripting.
+This repository documents my journey of learning cybersecurity. It contains my notes, projects, and documentation as I build the fundamental skills required to become a cybersecurity professional.
 
-Fundamentals makes the whole process of becoming a skilled professional easier as it helps understand commands , tools , scripts etc.
-
+I believe mastering the fundamentals is one of the most important steps in cybersecurity. A strong foundation in networking, Linux, Windows, and programming makes it much easier to understand security concepts, tools, scripts, and techniques later on.
 ## Repository Structure
 
 📂 Kali Linux Terminal Learning
