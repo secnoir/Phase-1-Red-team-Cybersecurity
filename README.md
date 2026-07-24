@@ -31,6 +31,7 @@ Fundamentals makes the whole process of becoming a skilled professional easier a
 
 📂Projects
 - basic ping sweep script
+- Beginner Port Scanner
 
 
 📂Python fundamentals
