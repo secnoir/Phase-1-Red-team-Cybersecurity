@@ -35,6 +35,17 @@ Fundamentals makes the whole process of becoming a skilled professional easier a
 
 📂Python fundamentals
 - Strings.md
+- Variables and Methods.md
+- Tuples.md
+- Boolean Expressions and Relational Operators.md
+- Conditional Statements.md
+- Dictionaries.md
+- Functions.md
+- Lists.md
+- Math.md
+- Sockets.md
+- Advanced strings.md
+- Importing modules.md
 
 
 
