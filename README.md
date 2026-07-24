@@ -33,7 +33,6 @@ Fundamentals makes the whole process of becoming a skilled professional easier a
 - basic ping sweep script
 - Beginner Port Scanner
 
-
 📂Python fundamentals
 -Strings.md
 -Functions.md
@@ -41,6 +40,8 @@ Fundamentals makes the whole process of becoming a skilled professional easier a
 -Booleand Expressions and Relational Operators.md
 -Math.md
 -Conditional Statements.md
+
+
 
 
 
