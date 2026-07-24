@@ -35,11 +35,6 @@ Fundamentals makes the whole process of becoming a skilled professional easier a
 
 📂Python fundamentals
 -Strings.md
--Functions.md
--Variables and Methods.md
--Booleand Expressions and Relational Operators.md
--Math.md
--Conditional Statements.md
 
 
 
