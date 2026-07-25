@@ -3,6 +3,7 @@ Input in a built in python function that takes an input from the user and gives 
 An example of input is shown below:
 
 name = input("Enter your name: ")
+
 print(f"Hello {name} !)
 
 How this code works:
