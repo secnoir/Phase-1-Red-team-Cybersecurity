@@ -39,6 +39,7 @@ I believe mastering the fundamentals is one of the most important steps in cyber
 - Sockets.md
 - Advanced strings.md
 - Importing modules.md
+- Input.md
 
 
 
